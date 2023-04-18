@@ -1,2 +1,2 @@
 # mathewsonb.github.io
-Will be used to host my personal website
+Will be used for R version control
